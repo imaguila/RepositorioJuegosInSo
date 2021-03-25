@@ -25,6 +25,10 @@ En nuestro caso ampliamos el alcance de la actividad para utilizar las cartas de
 
 - App para las cartas de planificación
 - Fichas de la actividad
+    - [Ficha](ficha.pdf)
+    - [Trasparencias](trasparencias.pdf)
+    - [Material para el alumno](alumno.pdf) 
+   
 - Hoja de calculo o similar para realizar la propuesta final
 
 ## INSTRUCCIONES
