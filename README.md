@@ -39,3 +39,6 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 [Cartas de valores y Roles Scrum](CartasValores/Descripcion.md)
 
 [Cartas contra el agilismo](CartasContraAgilismo/Descripcion.md)
+
+[Pesar en pingüinos](PesarEnPinguinos/Descripcion.md)
+
