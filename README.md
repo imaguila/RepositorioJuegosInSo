@@ -25,10 +25,4 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 [Reto de la torre de espaguetis](Torre/Descripcion.md)
 
 
-[Cartas de valores y Roles Scrum](CartasValoresyRoles/Descripcion.md)
-
-[dd](https://github.com/imaguila/ScrumValuesAndRolesCardGame/blob/eef01758649707f35045f57cb2b33328226c14ff/Descripcion.md)
-
-
-[asdf](https://github.com/imaguila/ScrumValuesAndRolesCardGame/tree/eef01758649707f35045f57cb2b33328226c14ff)
-
+[Cartas de valores y Roles Scrum](CartasValores/Descripcion.md)
