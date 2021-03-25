@@ -15,7 +15,7 @@ Entre 10 y 20 minutos depende del número de repeticiones y versiones
 
 Equipos de trabajo de al menos entre 4 y 8 personas.
 
-##INSTRUCCIONES
+## INSTRUCCIONES
 
 El proyecto es porcesar las monedas dándoles la vuelta con la mano no dominante del participante. Cada participante representa una etapa en el desarrollo (análisis, diseño, codificación, ….). Se necesita al menos un partipante que sea el responsable de gestionar el proyecto midiendo los tiempos, si el grupo es pequeño puede ser el propio facilitador del juego.
 
