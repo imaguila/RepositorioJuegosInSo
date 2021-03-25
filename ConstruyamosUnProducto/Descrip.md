@@ -48,7 +48,7 @@ Se les pedirá que hagan una demostracción de la funcionalidad en cuanto estén
 
  ### Fase 2: Se construirá un avión de papel en este caso con el mismo modelo de instrucciones gráficas, pero lo que cambiará será el medio de comunicarse, plegadores y gestores.
 
-Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el **“gestor”**), y entregue una hoja de papel en blanco al otro miembro del par (el **“plegador”**). Divida las parejas en tres disposiciones:
+Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el **gestor**), y entregue una hoja de papel en blanco al otro miembro del par (el **plegador**). Divida las parejas en tres disposiciones:
 
 - **S2S**,  sentados lado a lado:
 
@@ -60,9 +60,9 @@ Formar pares entre los participantes y dar una hoja de instrucciones (con la car
               
 -  **B2B**   sentados espalda contra espalda:
  
-              Ni el instructor ni el plegador pueden ver el trabajo del otro, pero pueden hablar (por sobre sus hombros) tanto como quieran
+              Ni el gestor ni el plegador pueden ver el trabajo del otro, pero pueden hablar tanto como quieran
 
-Empecemos!” la persona con la hoja de instrucciones ( *gestor* ) la da vuelta y le da instrucciones al otro miembro del par sobre como plegar el origami.
+¡Empecemos! la persona con la hoja de instrucciones (*gestor*) la da vuelta y le da instrucciones al otro miembro del par sobre como plegar el origami siguendo las reglas marcadas por el tipo al que pertenece.
 
 A medida que cada grupo completa exitosamente el origami, haga que se pongan de pie y "prueben" la funcionalidad del producto acabado.
 
