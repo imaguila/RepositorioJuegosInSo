@@ -46,7 +46,7 @@ Se les dará a todos cinco minutos como maximo para la ejecución del proyecto.
 
 Se les pedirá que hagan una demostracción de la funcionalidad en cuanto estén acabados.
 
- ### Fase 2: Se construirá un avión de papel en este caso con el mismo modelo de instrucciones gráficas, pero lo que cambiará será el medio de comunicarse, plegadores y gestores.
+### Fase 1: Se construirá un avión de papel en este caso con el mismo modelo de instrucciones gráficas, pero lo que cambiará será el medio de comunicarse, plegadores y gestores.
 
 Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el **gestor**), y entregue una hoja de papel en blanco al otro miembro del par (el **plegador**). Divida las parejas en tres disposiciones:
 
@@ -57,9 +57,9 @@ Formar pares entre los participantes y dar una hoja de instrucciones (con la car
 -  **F2F** sentados enfrentados (cara a cara):
 
               El plegador no ve la hoja de instrucciones, pero el gestor puede ver el trabajo del plegador y dar instrucciones
-              
+
 -  **B2B**   sentados espalda contra espalda:
- 
+
               Ni el gestor ni el plegador pueden ver el trabajo del otro, pero pueden hablar tanto como quieran
 
 ¡Empecemos! la persona con la hoja de instrucciones (*gestor*) la da vuelta y le da instrucciones al otro miembro del par sobre como plegar el origami siguendo las reglas marcadas por el tipo al que pertenece.
@@ -70,9 +70,9 @@ El facilitador puede finalizar el ejercicio después de un cierto lapso de tiemp
 
 ## DEBRIEFING
 
-Debatir con los alumnos como se han sentido con los diferentes tipos de instrucciones, 
+Debatir con los alumnos como se han sentido con los diferentes tipos de instrucciones,
 
-* ¿Cúal creen que es la mejor?, 
+* ¿Cúal creen que es la mejor?,
 
 * ¿Sería buena la redundancia?
 
