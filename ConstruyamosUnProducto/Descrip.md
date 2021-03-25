@@ -50,11 +50,16 @@ Se les pedirá que hagan una demostracción de la funcionalidad en cuanto estén
 
 Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el **“gestor”**), y entregue una hoja de papel en blanco al otro miembro del par (el **“plegador”**). Divida las parejas en tres disposiciones:
 
-- Disposicion 1 sentados lado a lado ( **S2S** )
+- **S2S**,  sentados lado a lado:
+
               Solo pliega el plegador, pero ambos pueden ver la hoja de instrucciones tanto como sea necesario.
-- Disposición 2 sentados enfrentados (cara a cara), y ( **F2F** )
+
+-  **F2F** sentados enfrentados (cara a cara):
+
               El plegador no ve la hoja de instrucciones, pero el gestor puede ver el trabajo del plegador y dar instrucciones
-- Disposición 3 sentados espalda contra espalda ( **B2B** )
+              
+-  **B2B**   sentados espalda contra espalda:
+ 
               Ni el instructor ni el plegador pueden ver el trabajo del otro, pero pueden hablar (por sobre sus hombros) tanto como quieran
 
 Empecemos!” la persona con la hoja de instrucciones ( *gestor* ) la da vuelta y le da instrucciones al otro miembro del par sobre como plegar el origami.
