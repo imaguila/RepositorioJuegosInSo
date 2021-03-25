@@ -10,7 +10,7 @@ Aprendizaje por prueba y error.
 
 ## NUMERO DE PARTICIPANTES
 
->= 3 pero no mas de 20
+ Tres o mas pero no mas de 20
 
 
 ## TEMPORIZACIÓN
