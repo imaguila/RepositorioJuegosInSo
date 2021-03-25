@@ -20,8 +20,9 @@ No mas de 15 minutos.
 
 ## MATERIALES
 
-- Tarjetas impresa, [tarjetas](https://github.com/imaguila/ScrumValuesAndRolesCardGame.git)
--
+- Tarjetas impresas,
+  - [tarjetas](https://github.com/imaguila/ScrumValuesAndRolesCardGame.git)
+
 - Esquema de colocación de las cartas, [esquema](estruc.jpg)
 
 ## INSTRUCCIONES DE EJECUCIÓN
@@ -33,6 +34,6 @@ Se reparten las cartas barajadas y los alumnos deben encontrar la correcta ubica
 
 Revisar cuales han sido los principales errores
 
-[Solucion](sol.png)
+[Solucion](sol.jpg)
 
-[Solucion en ingles](soleng.png)
+[Solucion en ingles](soleng.jpg)
