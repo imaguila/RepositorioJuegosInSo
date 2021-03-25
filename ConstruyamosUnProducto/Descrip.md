@@ -18,7 +18,7 @@ Proponemos una actividad en dos etapas donde el producto a construir será un pr
 
 - Una hoja de papel de periodico para cada equipo
 - Un hoja tamaño A4 de papel reciclado para cada equipo
-- Instrucciones gráficas paso a paso para el gorro [grafico](gorro.jpg)
+- Instrucciones gráficas paso a paso para el gorro, [grafico](gorro.jpg)
 - Instrucciones textuales paso a paso para el gorro
 
       1. Partir de una hoja de periódico doblada por el lomo tal como viene de la imprenta.
@@ -29,7 +29,7 @@ Proponemos una actividad en dos etapas donde el producto a construir será un pr
 
 - Prototipos de gorro
 
-- Instrucciones graficas del modelo de avión a construir [grafico](avion.jpg)
+- Instrucciones graficas del modelo de avión a construir, [grafico](avion.jpg)
 
 
 ## INSTRUCCIONES DE EJECUCIÓN
@@ -65,6 +65,10 @@ El facilitador puede finalizar el ejercicio después de un cierto lapso de tiemp
 
 ## DEBRIEFING
 
-Debatir con los alumnos como se han sentido con los diferentes tipos de instrucciones, ¿Cual creen que es la mejor?, ¿Sería buena la redundancia?
+Debatir con los alumnos como se han sentido con los diferentes tipos de instrucciones, 
+
+* ¿Cúal creen que es la mejor?, 
+
+* ¿Sería buena la redundancia?
 
 Valorar la importancia de tener buenos canales de comunicación
