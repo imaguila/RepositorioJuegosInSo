@@ -16,6 +16,4 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 
 ## Lista de juegos
 
-[Construyamos un producto](ConstruyamosUnProducto/Descrip.md)
-
-
+[Construyamos un producto](ConstruyamosUnProducto/Descripcion.md)
