@@ -20,7 +20,8 @@ No mas de 15 minutos.
 
 ## MATERIALES
 
-- Tarjetas impresa, [tarjetas](https://github.com/imaguila/ScrumValuesAndRolesCardGame.git) 
+- Tarjetas impresa, [tarjetas](https://github.com/imaguila/ScrumValuesAndRolesCardGame.git)
+-
 - Esquema de colocación de las cartas, [esquema](estruc.jpg)
 
 ## INSTRUCCIONES DE EJECUCIÓN
