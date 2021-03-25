@@ -42,3 +42,6 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 
 [Pesar en pingüinos](PesarEnPinguinos/Descripcion.md)
 
+[Scrum Parchisi](ScrumParchisi/Descripcion.md)
+
+
