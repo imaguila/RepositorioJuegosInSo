@@ -20,6 +20,7 @@ Proponemos una actividad en dos etapas donde el producto a construir será un pr
 - Un hoja tamaño A4 de papel reciclado para cada equipo
 - Instrucciones gráficas paso a paso para el gorro [grafico](gorro.jpg)
 - Instrucciones textuales paso a paso para el gorro
+
       1.	Partir de una hoja de periódico doblada por el lomo tal como viene de la imprenta.
       2.	Marcar un doblez, a la mitad, perpendicular al doblez de lomo del periódico.
       3.	Doblar las dos esquinas junto al lomo, hacia el doblez marcado en el paso e, creando una punta triangular.
