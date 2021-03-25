@@ -13,3 +13,7 @@ Sin embargo hacer que los alumnos desarrollen las competencias necesarias para a
 El aprendizaje basado en juegos es una estrategia de mejora docente que está cobrando vigencia en la actualidad que va desde la aplicación de juegos serios hasta el uso de videojuegos o realidad aumentada. Deben diseñarse manteniendo un equilibrio entre la materia, por un lado y por otro la jugabilidad y la capacidad del jugador para retener y aplicar dicha materia en el mundo real.
 
 Estos juegos formativos son herramientas que permiten formar a los participantes ayudándoles a experimentar, aprender de sus propios errores y adquirir experiencia en un entorno seguro y sin coste, además de mejorar la motivación de los alumnos en el proceso de aprendizaje.
+
+## Lista de juegos
+
+[Construyamos un producto](https://github.com/imaguila/RepositorioJuegosInSo/blob/master/Construyamos%20un%20producto/Descripcion.md)
