@@ -19,3 +19,5 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 [Construyamos un producto](ConstruyamosUnProducto/Descripcion.md)
 
 [Contar Hasta 33](ContarHasta33/Descripcion.md)
+
+[Contar en la Oscuridad ](ContarEnLaOscuridad/Descripcion.md)
