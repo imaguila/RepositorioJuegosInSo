@@ -2,7 +2,7 @@
 
 El objetivo de este material es servir de soporte para compartir actividades basadas en juegos serios para la docencia en materias de ingeniería del software. En muchos casos se trata de la adapción o simplemente traducción de activides ampliamente conocidas.
 
-Referenciar este trabajo empleando la siguiente referencia:
+Referenciar este trabajo empleando las siguientes referencias:
 
 >I.M. del Aguila, R. Guirado, C.M. Miranda (2020) SERIOUS GAMES AS A DRIVER FOR TEACHING AGILE SOFTWARE DEVELOPMENT IN UNDERGRADUATE SOFTWARE ENGINEERING STUDIES, ICERI2020 Proceedings, pp. 1036-1044.
 
