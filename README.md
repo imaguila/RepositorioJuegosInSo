@@ -36,5 +36,6 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 
 [Reto de la torre de espaguetis](Torre/Descripcion.md)
 
-
 [Cartas de valores y Roles Scrum](CartasValores/Descripcion.md)
+
+[Cartas contra el agilismo](CartasContraAgilismo/Descripcion.md)
