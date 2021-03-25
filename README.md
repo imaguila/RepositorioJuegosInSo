@@ -23,3 +23,6 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 [Contar en la Oscuridad](ContarEnLaOscuridad/Descripcion.md)
 
 [Reto de la torre de espaguetis](Torre/Descripcion.md)
+
+
+[Cartas de valores y Roles Scrum](CartasValoresyRoles/Descripcion.md)
