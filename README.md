@@ -16,4 +16,6 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 
 ## Lista de juegos
 
-[Construyamos un producto](Descripcion.md)
+[Construyamos un producto][Descripcion]
+
+[Descripcion]: https://github.com/imaguila/RepositorioJuegosInSo/blob/master/Construyamos%20un%20producto/Descripcion.md
