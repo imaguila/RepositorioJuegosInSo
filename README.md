@@ -20,4 +20,6 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 
 [Contar Hasta 33](ContarHasta33/Descripcion.md)
 
-[Contar en la Oscuridad ](ContarEnLaOscuridad/Descripcion.md)
+[Contar en la Oscuridad](ContarEnLaOscuridad/Descripcion.md)
+
+[Reto de la torre de espaguetis](Torre/Descripcion.md)
