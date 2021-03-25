@@ -29,37 +29,40 @@ Proponemos una actividad en dos etapas donde el producto a construir será un pr
 
 - Prototipos de gorro
 
-- Instrucciones graficas del modelo de avión a construir
+- Instrucciones graficas del modelo de avión a construir [grafico](avion.jpg)
 
-Instrucciones gorro pirata
-
-Instrucciones avión
 
 ## INSTRUCCIONES DE EJECUCIÓN
 
 ### Fase 1: Se va a construir un gorro de papel por equipo partiendo de tres tipos distintos de instrucciones. El tipo 1 utilizarán un esquema gráfico de intrucciones, los alumnos de tipo 2 las instrucciones en un texto escrito y los del tipo 3 un modelo a escala del gorro ya hecho.
 
 Definir los grupos de alumnos. Preferiblemente de dos o tres personas, buscando un número similar de equipos de cada tipo
+
 Se distribuyen en áreas distintas del aula por tipos, proporcionando las instrucciones, pero sin que puedan consultarlas.
+
 En ningún momento se dirá que «objeto» se está construyendo. Pero se les indica que ganarán aquellos equipos que acaben antes y demuestren la funcionalidad del objeto.
+
 Se les dará a todos cinco minutos como maximo para la ejecución del proyecto.
+
 Se les pedirá que hagan una demostracción de la funcionalidad en cuanto estén acabados.
 
  ### Fase 2: Se construirá un avión de papel en este caso con el mismo modelo de instrucciones gráficas, pero lo que cambiará será el medio de comunicarse, plegadores y gestores.
 
-Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el “gestor”), y entregue una hoja de papel en blanco al otro miembro del par (el “plegador”). Divida las parejas en tres disposiciones:
+Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el **“gestor”**), y entregue una hoja de papel en blanco al otro miembro del par (el **“plegador”**). Divida las parejas en tres disposiciones:
 
 
-- Disposicion 1 sentados lado a lado (S2S)
-- Disposición 2 sentados enfrentados (cara a cara), y (F2F)
-- Disposición 3 sentados espalda contra espalda (B2B)
+      - Disposicion 1 sentados lado a lado (**S2S**)
+                   Solo pliega el plegador, pero ambos pueden ver la hoja de instrucciones tanto como sea necesario.
+      - Disposición 2 sentados enfrentados (cara a cara), y (**F2F**)
+                   El plegador no ve la hoja de instrucciones, pero el gestor puede ver el trabajo del plegador y dar instrucciones
+      - Disposición 3 sentados espalda contra espalda (**B2B**)
+                   Ni el instructor ni el plegador pueden ver el trabajo del otro, pero pueden hablar (por sobre sus hombros) tanto como quieran
 
-Empecemos!” la persona con la hoja de instrucciones la da vuelta y le da instrucciones al otro miembro del par sobre como plegar el origami.
+Empecemos!” la persona con la hoja de instrucciones (*gestor*) la da vuelta y le da instrucciones al otro miembro del par sobre como plegar el origami.
 
-En el D1, Solo pliega el plegador, pero ambos pueden ver la hoja de instrucciones tanto como sea necesario.
-En el D2, el plegador no ve la hoja de instrucciones, pero el gestor puede ver el trabajo del plegador y dar instrucciones.
-En el D3, ni el instructor ni el plegador pueden ver el trabajo del otro, pero pueden hablar (por sobre sus hombros) tanto como quieran.
-A medida que cada grupo completa exitosamente el origami, haga que se pongan de pié. El facilitador puede finalizar el ejercicio después de un cierto lapso de tiempo, ya que D 3 podría no lograr terminar la tarea.
+A medida que cada grupo completa exitosamente el origami, haga que se pongan de pie y "prueben" la funcionalidad del producto acabado.
+
+El facilitador puede finalizar el ejercicio después de un cierto lapso de tiempo, ya que la B2B podría no lograr terminar la tarea.
 
 ## DEBRIEFING
 
