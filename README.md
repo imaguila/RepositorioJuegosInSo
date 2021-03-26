@@ -45,12 +45,3 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 [Scrum Parchisi](ScrumParchisi/Descripcion.md)
 
 
-<p>En Mozilla, somos una comunidad de</p>
-
-<ul>
-  <li>tecnólogos</li>
-  <li>pensadores</li>
-  <li>constructores</li>
-</ul>
-
-<p>trabajando juntos... </p>
