@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -30,11 +30,3 @@
     <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
 
 </body>
-</html>
-
-
-
-
-
-
-
