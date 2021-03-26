@@ -1,6 +1,6 @@
 # Juego de las monedas
 
-Destaca la importancia del trabajo por etapas y las diferencias entre desarrollo por etapas e incremental
+Destaca la importancia del trabajo por etapas y las diferencias entre desarrollo por etapas e incremental. Es un juego clásico en los talleres Scrum.
 
 
 ## TEMPORIZACION
@@ -36,3 +36,5 @@ VARIANTES: Incorporar un cambio en mitad del proyecto, para que haya que rehacer
 ## DEBREFING
 
 Comprobar las mejoras que supone el trabajo en ronda 3. mayor velocidad y aprovechamiento de los recursos.
+
+[Original tastycupcakes](https://www.tastycupcakes.org/2015/07/penny-flow/)

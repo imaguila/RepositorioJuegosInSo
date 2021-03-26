@@ -26,3 +26,4 @@ Se divide la audiencia entre dos tipos de equipos, los que planificarán y los q
 - Dibujar un poco de hierba
 - El asta de la bandera debe estar volando una pancarta con uno de los principios ágiles
 
+[original en tastycupcakes](https://www.tastycupcakes.org/2016/09/to-plan-or-not-to-plan/)
