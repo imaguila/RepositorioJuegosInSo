@@ -11,6 +11,12 @@ Entre 10 y 20 minutos depende del número de repeticiones y versiones
 
 20 monedas por equipo
 
+Materiales:  20 Monedas por equipo, dos equipos de 4 procesadores, un medidor y uno que controle la calidad (uno ágil y otro predictivo), que alternarán papeles en cada ronda) y el resto medirán el trabajo, necesario un reloj. (20 a la vez, 10  a la vez, 5 a la vez, 3 a la vez, 1 a la vez)
+Pueden ser 3 equipos de 8 personas, cinco procesan, dos miden y uno controla (dos si 25). (15, 10, 1)
+Pueden ser 5 equipos de 5 personas, cuatro procesar y uno mide.
+
+
+
 ## PARTICIPANTES
 
 Equipos de trabajo de al menos entre 4 y 8 personas.
@@ -32,6 +38,14 @@ Se medirán los tiempos totales del proyecto y los tiempos en realizar la primer
 Nota: se puede repetir las rondas un par de veces para coger destreza en el proceso e incluso volver a la ronda 1 para medir despues de acabar la ronda 3 y evitar desviaciones en la medida por la práctica adquirida por el equipo.
 
 VARIANTES: Incorporar un cambio en mitad del proyecto, para que haya que rehacer lo hecho y ver como afecta a los tiempos finales.
+
+Otra variante si no hay tiempo es hacer que cada equipo funcione de forma diferente
+
+
+* Equipo predictivo: Cada miembro procesa todo su trabajo y lo pasa a la siguiente etapa
+
+* Equipo ágil: Procesa una moneda y lo pasa a la siguiente
+
 
 ## DEBREFING
 
