@@ -44,4 +44,3 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 
 [Scrum Parchisi](ScrumParchisi/Descripcion.md)
 
-[pruebas](pruebas.md)
