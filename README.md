@@ -22,20 +22,6 @@ El objetivo de este material es servir de soporte para compartir actividades bas
 
 
 
-## Referenciar este trabajo :
-
->I.M. del Aguila, R. Guirado, C.M. Miranda (2020) SERIOUS GAMES AS A DRIVER FOR TEACHING AGILE SOFTWARE DEVELOPMENT IN UNDERGRADUATE SOFTWARE ENGINEERING STUDIES, ICERI2020 Proceedings, pp. 1036-1044.
-
-[doi: 10.21125/iceri.2020.0294](https://library.iated.org/view/DELAGUILA2020SER)
-
->I.M. del Águila, J. Del Sagrado, <\div>A. Bosch (2021) GUIDELINES FOR USE SERIOUS GAMES IN SOFTWARE ENGINEERING TEACHING, INTED2021 Proceedings, pp. 2742-2749.
-
-[doi: 10.21125/inted.2021.0586](https://library.iated.org/view/DELAGUILA2021GUI)
-
-## Posters presentados en Jornadas de innovación docentes
-
-*   ![2019](2019.jpg)    ![2020](2020.jpg) 
-
 ## Lista de actividades disponibles
 
 *   [Cartas de simulación de Scrum](/CartasSimulacionScrum/Descripcion.md)
@@ -46,4 +32,19 @@ El objetivo de este material es servir de soporte para compartir actividades bas
 *   [Contar en la oscuridad](/ContarEnLaOscuridad/Descripcion.md)
 
 
-*   [preuba](prueba.md)
+
+## Cómo referenciar este trabajo
+
+>I.M. del Aguila, R. Guirado, C.M. Miranda (2020) SERIOUS GAMES AS A DRIVER FOR TEACHING AGILE SOFTWARE DEVELOPMENT IN UNDERGRADUATE SOFTWARE ENGINEERING STUDIES, ICERI2020 Proceedings, pp. 1036-1044.
+
+[doi: 10.21125/iceri.2020.0294](https://library.iated.org/view/DELAGUILA2020SER)
+
+>I.M. del Águila, J. Del Sagrado, <\div>A. Bosch (2021) GUIDELINES FOR USE SERIOUS GAMES IN SOFTWARE ENGINEERING TEACHING, INTED2021 Proceedings, pp. 2742-2749.
+
+[doi: 10.21125/inted.2021.0586](https://library.iated.org/view/DELAGUILA2021GUI)
+
+
+
+## Posters presentados en Jornadas de innovación docentes
+
+*   ![2019](2019.jpg)    ![2020](2020.jpg)
