@@ -50,15 +50,15 @@ Se les pedirá que hagan una demostracción de la funcionalidad en cuanto estén
 
 Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el **gestor**), y entregue una hoja de papel en blanco al otro miembro del par (el **plegador**). Divida las parejas en tres disposiciones:
 
-- **S2S**,  sentados lado a lado:
+-   **S2S**,  sentados lado a lado:
 
               Solo pliega el plegador, pero ambos pueden ver la hoja de instrucciones tanto como sea necesario.
 
--  **F2F** sentados enfrentados (cara a cara):
+-   **F2F**, sentados enfrentados (cara a cara):
 
               El plegador no ve la hoja de instrucciones, pero el gestor puede ver el trabajo del plegador y dar instrucciones
 
--  **B2B**   sentados espalda contra espalda:
+-   **B2B**,  sentados espalda contra espalda:
 
               Ni el gestor ni el plegador pueden ver el trabajo del otro, pero pueden hablar tanto como quieran
 
@@ -72,8 +72,12 @@ El facilitador puede finalizar el ejercicio después de un cierto lapso de tiemp
 
 Debatir con los alumnos como se han sentido con los diferentes tipos de instrucciones,
 
-* ¿Cúal creen que es la mejor?,
+*   ¿Cúal creen que es la mejor?,
 
-* ¿Sería buena la redundancia?
+*   ¿Sería buena la redundancia?
 
 Valorar la importancia de tener buenos canales de comunicación
+
+## Imagenes de la experiencia
+
+![Foto de la actividad](foto.jpg)
