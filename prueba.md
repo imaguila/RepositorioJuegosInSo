@@ -10,6 +10,16 @@
 
  <font size="6"> This is my text number 6</font>
 
+<span style="color: red;">text</span>
+
+<style>
+mark {
+  background-color: yellow;
+  color: black;
+}
+</style>
+
+<mark>Highlighted text!!</mark>
 
  <div style="text-align: justify"> you taodo el texto a justidicar se poen qquer apara sabaer como justificac si l**
 El aprendizaje basado en juegos es una estrategia de mejora docente que está cobrando vigencia en la actualidad que va desde la aplicación de juegos serios hasta el uso de videojuegos o realidad aumentada. Deben diseñarse manteniendo un equilibrio entre la materia, por un lado y por otro la jugabilidad y la capacidad del jugador para retener y aplicar dicha materia en el mundo real.
