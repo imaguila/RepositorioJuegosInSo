@@ -4,3 +4,10 @@ Esta es una variación del clásico juego de bloques de Lego para construir un p
 
 
 [Enlace original](https://www.linkedin.com/pulse/scrum-lego-simulation-agile-game-build-plane-ignacio-paz)
+
+
+## MATERIALES
+
+[Product vision board](productvision.pdf)
+
+[Fichas de producto](Scrum LEGO Simulation -.pdf)
