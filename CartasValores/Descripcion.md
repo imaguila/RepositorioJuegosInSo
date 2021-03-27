@@ -1,13 +1,11 @@
 # Cartas de valores y roles
 
-El "Juego de cartas de valores y roles de Scrum" es una actividad de aprendizaje que llevará a los estudiantes a discutir sobre los roles y valores de Scrum, instruyéndoles también sobre las responsabilidades y comportamientos esperados.
+El "Juego de cartas de valores y roles de Scrum" es una actividad de aprendizaje que llevará a los estudiantes a discutir sobre los roles y valores de Scrum, instruyéndoles también sobre las responsabilidades y comportamientos esperados. La fuente original esta accesible en [tastycapkes](https://www.tastycupcakes.org/2016/06/scrum-values-roles-card-game/)
 
 
- Equipos
-debe encontrar la ubicación correcta de las tarjetas, siendo el profesor el árbitro.
+ Los Equipos deben encontrar la ubicación correcta de las tarjetas, siendo el profesor/facilitador el árbitro.
 
-El equipo que
-lo consigue primero gana.
+El equipo que lo consigue primero gana.
 
 
 ## PUNTOS DE APRENDIZAJE
