@@ -47,7 +47,7 @@ A continuación se muestran por orden alfabético las actividades basadas en jue
 [doi: 10.21125/inted.2021.0586](https://library.iated.org/view/DELAGUILA2021GUI)
 
 
-
+<!--
 ## Posters presentados en Jornadas de innovación docente
 
-*   ![2019](2019.jpg)    ![2020](2020.jpg)
+*   ![2019](2019.jpg)    ![2020](2020.jpg)-->
