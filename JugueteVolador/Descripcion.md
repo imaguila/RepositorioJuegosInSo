@@ -10,4 +10,4 @@ Esta es una variación del clásico juego de bloques de Lego para construir un p
 
 [Product vision board](productvision.pdf)
 
-[Fichas de producto](Scrum LEGO Simulation -.pdf)
+[Fichas de producto](ScrumLEGOSimulation.pdf)
