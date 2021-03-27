@@ -12,7 +12,7 @@ mark {
 
 ## Cómo aprender Ingeniería del software jugando
 
-<mark>  El software<div style="text-align: justify">  está presente en sistemas de todo tipo: transportes, sanidad, telecomunicaciones, militares, procesos industriales, entretenimiento, productos de oficina, etc.; la lista cubre todas las actividades humanas. Estas aplicaciones conducen a la toma de decisiones comerciales, sirven como base a la investigación científica moderna, contribuyen a la resolución de problemas de ingeniería y son el factor clave que diferencia los productos y servicios modernos. Son muchos los casos en los que las personas dejan su trabajo, bienestar, seguridad, entretenimiento, decisiones y sus propias vidas en manos de software informático.
+<mark>  El software  está presente en sistemas de todo tipo: transportes, sanidad, telecomunicaciones, militares, procesos industriales, entretenimiento, productos de oficina, etc.; la lista cubre todas las actividades humanas. Estas aplicaciones conducen a la toma de decisiones comerciales, sirven como base a la investigación científica moderna, contribuyen a la resolución de problemas de ingeniería y son el factor clave que diferencia los productos y servicios modernos. Son muchos los casos en los que las personas dejan su trabajo, bienestar, seguridad, entretenimiento, decisiones y sus propias vidas en manos de software informático.
 
 <div style="text-align: justify">
 Todo esto ha llevado a un cambio en la percepción pública del software que debe desarrollarse como cualquier otro producto industrial, aplicando métodos de ingeniería que aseguren la calidad del producto resultante, sin embargo se hace necesario utilizar metodologías propias que se adapten al carácter innovador de esta disciplina. <\div>
