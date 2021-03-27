@@ -11,3 +11,9 @@ Esta es una variación del clásico juego de bloques de Lego para construir un p
 [Product vision board](productvision.pdf)
 
 [Fichas de producto](ScrumLEGOSimulation.pdf)
+
+## IMAGENES ACTIVIDAD
+
+![Foto 1](foto1.jpg)
+![Foto 2](foto2.jpg)
+![Foto 3](foto3.jpg)
