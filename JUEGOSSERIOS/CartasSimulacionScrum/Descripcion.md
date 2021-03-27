@@ -1,5 +1,6 @@
 # Cartas de simulación de Scrum
 
+
 Esta actividad es la ejecución del juego:
 
 [Enlace](https://scrumcardgame.com/)
