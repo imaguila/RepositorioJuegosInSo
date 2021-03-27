@@ -77,7 +77,3 @@ Debatir con los alumnos como se han sentido con los diferentes tipos de instrucc
 *   ¿Sería buena la redundancia?
 
 Valorar la importancia de tener buenos canales de comunicación
-
-## Imagenes de la experiencia
-
-![Foto de la actividad](foto.jpg)

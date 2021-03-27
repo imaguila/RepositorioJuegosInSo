@@ -26,3 +26,7 @@ Se  ponen los participantes en forma de círculo. Hay que decir los números del
 Si se falla o pasa mas de un segundo, el siguiente empieza la serie hasta llegar a 33
 
 >1 2 clap 4 5 clap 7 8 clap 10 11 clap clap 14 clap 16 17 clap 19 20 clap 22 clap clap 25 26 clap 28 29 clap 31 32 clap
+
+## Imagenes de la experiencia
+
+![Foto de la actividad](foto.jpg)
