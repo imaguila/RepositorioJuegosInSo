@@ -45,6 +45,6 @@ El objetivo de este material es servir de soporte para compartir actividades bas
 
 
 
-## Posters presentados en Jornadas de innovación docentes
+## Posters presentados en Jornadas de innovación docente
 
 *   ![2019](2019.jpg)    ![2020](2020.jpg)
