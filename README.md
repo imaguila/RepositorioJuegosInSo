@@ -21,16 +21,13 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 
 [doi: 10.21125/iceri.2020.0294](https://library.iated.org/view/DELAGUILA2020SER)
 
-
->I.M. Del Águila, J. Del Sagrado, A. Bosch (2021) GUIDELINES FOR USE SERIOUS GAMES IN SOFTWARE ENGINEERING TEACHING, INTED2021 Proceedings, pp. 2742-2749.
+>I.M. del Águila, J. Del Sagrado, A. Bosch (2021) GUIDELINES FOR USE SERIOUS GAMES IN SOFTWARE ENGINEERING TEACHING, INTED2021 Proceedings, pp. 2742-2749.
 
 [doi: 10.21125/inted.2021.0586](https://library.iated.org/view/DELAGUILA2021GUI)
 
-
 ## Lista de actividades disponibles
 
-[Cartas de simulación de Scrum](/CartasSimulacionScrum/Descripcion.md)
-
-[Cartas contra el agilismo](/CartasContraAgilismo/Descripcion.md)
-
-[Cartas de valores y roles](/CartasValores/Descripcion.md)
+*   [Cartas de simulación de Scrum](/CartasSimulacionScrum/Descripcion.md)
+*   [Cartas contra el agilismo](/CartasContraAgilismo/Descripcion.md)
+*   [Cartas de valores y roles](/CartasValores/Descripcion.md)
+*   [Construyamos un producto](/ConstruyamosUnProducto/Descripcion.md)
