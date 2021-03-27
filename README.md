@@ -1,6 +1,5 @@
 <style>
 mark {
-  background-color: yellow;
   color: black;
   text-align: justify;
 }
