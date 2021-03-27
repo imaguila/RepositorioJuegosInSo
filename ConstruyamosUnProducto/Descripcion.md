@@ -29,7 +29,7 @@ Proponemos una actividad en dos etapas donde el producto a construir será un pr
 
 - Prototipos de gorro
 
-- Instrucciones graficas del modelo de avión a construir, [grafico](avion.jpg)
+- Instrucciones gráficas del modelo de avión a construir, [grafico](avion.jpg)
 
 
 ## INSTRUCCIONES DE EJECUCIÓN
@@ -48,7 +48,7 @@ Se les pedirá que hagan una demostracción de la funcionalidad en cuanto estén
 
 ### Fase 1: Se construirá un avión de papel en este caso con el mismo modelo de instrucciones gráficas, pero lo que cambiará será el medio de comunicarse, plegadores y gestores.
 
-Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el **gestor**), y entregue una hoja de papel en blanco al otro miembro del par (el **plegador**). Divida las parejas en tres disposiciones:
+Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el **gestor**), y entregue una hoja de papel en blanco al otro miembro del par (el **plegador**). Divida las parejas en tres disposiciones: ![disposicion.png]
 
 -   **S2S**,  sentados lado a lado:
 
