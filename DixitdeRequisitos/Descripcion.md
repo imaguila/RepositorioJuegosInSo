@@ -24,3 +24,7 @@ Tras la votación, los puntos se asignan de la siguiente forma:
 *	En cualquier otro caso, tanto el equipo redactor como los equipos que hayan acertado, obtienen 3 puntos. (siempre que tras la discusión se considere que el equipo lo ha etiquetado correctamente)
 *	Además, cada puntualización correcta aporta un punto al equipo y resta un punto al redactor equivocado.
 Al acabar una ronda, se elige un nuevo requisito.
+
+## Material adicional
+
+Para facilitar la participación los alumnos votan a mano alzada, utilizando unas [paletas](paletas.png), que podrían ser sustituidas por voto a mano alzada o por una app para realizar la votación y el conteo automático.
