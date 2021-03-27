@@ -16,7 +16,7 @@ En lugar de tarjetas o cartas, simplemente se pueden utilizar papelitos que se e
 
 El hecho de tener que manipular las fichas es básico para el exito de esta actividad.
 
-Se tiene dos tamaños diferentes en la fichas, el [primero](fichas.pdf) es para cada alumno, el [segundo](grandes.pdf) para utilizar sobre la pizarra.
+Se tiene dos tamaños diferentes en la fichas, el [primero](fichas.pdf) es para cada alumno, el [segundo](grande.pdf) para utilizar sobre la pizarra.
 
 
 ## Imagenes de la experiencia
