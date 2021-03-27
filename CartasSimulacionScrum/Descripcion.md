@@ -12,3 +12,7 @@ Este juego  permiten a los alumnos profundizar en las tareas de control y ejecuc
 [Material en español](Scrum_Card_Game_ES.pdf)
 
 [Instrucciones en inglés](Scrum_Card_Game_Instructions.pdf)
+
+## Imagenes de la experiencia
+
+![Foto ](foto1.png)
