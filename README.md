@@ -28,6 +28,6 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 
 
 ## Lista de actividades disponibles
-[Cartas de simulación de Scrum](https://imaguila.github.io/RepositorioJuegosInSo/CartasSimulacionScrum/descripcion.md)
+[Cartas de simulación de Scrum](https://imaguila.github.io/RepositorioJuegosInSo/CartasSimulacionScrum/Descripcion.md)
 
-[Caratas contra el agilismo](https://imaguila.github.io/RepositorioJuegosInSo/CartasContraAgilismo/descripcion.md)
+[Caratas contra el agilismo](https://imaguila.github.io/RepositorioJuegosInSo/CartasContraAgilismo/Descripcion.md)
