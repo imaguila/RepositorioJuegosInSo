@@ -6,11 +6,12 @@ Referenciar este trabajo empleando las siguientes referencias:
 
 >I.M. del Aguila, R. Guirado, C.M. Miranda (2020) SERIOUS GAMES AS A DRIVER FOR TEACHING AGILE SOFTWARE DEVELOPMENT IN UNDERGRADUATE SOFTWARE ENGINEERING STUDIES, ICERI2020 Proceedings, pp. 1036-1044.
 
-      >> doi: 10.21125/iceri.2020.0294
+      >> [doi: 10.21125/iceri.2020.0294](https://library.iated.org/view/DELAGUILA2020SER)
+
 
 >I.M. Del Águila, J. Del Sagrado, A. Bosch (2021) GUIDELINES FOR USE SERIOUS GAMES IN SOFTWARE ENGINEERING TEACHING, INTED2021 Proceedings, pp. 2742-2749.
 
-      >> doi: 10.21125/inted.2021.0586
+      >> [doi: 10.21125/inted.2021.0586](https://library.iated.org/view/DELAGUILA2021GUI)
 
 
 
