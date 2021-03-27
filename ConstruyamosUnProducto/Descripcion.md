@@ -48,7 +48,7 @@ Se les pedirá que hagan una demostracción de la funcionalidad en cuanto estén
 
 ### Fase 1: Se construirá un avión de papel en este caso con el mismo modelo de instrucciones gráficas, pero lo que cambiará será el medio de comunicarse, plegadores y gestores.
 
-Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el **gestor**), y entregue una hoja de papel en blanco al otro miembro del par (el **plegador**). Divida las parejas en tres disposiciones: ![disposicion.png]
+Formar pares entre los participantes y dar una hoja de instrucciones (con la cara hacia abajo) a una de las personas de cada par (el **gestor**), y entregue una hoja de papel en blanco al otro miembro del par (el **plegador**). Divida las parejas en tres disposiciones: ![disposicion](disposicion.png){width=3cm height=3cm}
 
 -   **S2S**,  sentados lado a lado:
 
