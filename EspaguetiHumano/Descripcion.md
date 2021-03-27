@@ -5,8 +5,9 @@ Un juego para ilustrar la belleza de la autoorganización, y el dolor de la gest
 ## PUNTOS DE APRENDIZAJE
 
 Importancia de los equipos autogestionados.
-Implicación y compromiso de los miembros del equipo de trabajo
-TEMPORIZACIÓN
+Implicación y compromiso de los miembros del equipo de trabajo 
+
+## TEMPORIZACIÓN
 
  10-20 minutos 
 
