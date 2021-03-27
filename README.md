@@ -2,7 +2,7 @@
 
 El objetivo de este material es servir de soporte para compartir actividades basadas en juegos serios para la docencia en materias de ingeniería del software. En muchos casos se trata de la adapción o simplemente traducción de activides ampliamente conocidas.
 
-## Cómo aprender Ingeniería del software  jug
+## Cómo aprender Ingeniería del software jugando
 
 El software está presente en sistemas de todo tipo: transportes, sanidad, telecomunicaciones, militares, procesos industriales, entretenimiento, productos de oficina, etc.; la lista cubre todas las actividades humanas. Estas aplicaciones conducen a la toma de decisiones comerciales, sirven como base a la investigación científica moderna, contribuyen a la resolución de problemas de ingeniería y son el factor clave que diferencia los productos y servicios modernos. Son muchos los casos en los que las personas dejan su trabajo, bienestar, seguridad, entretenimiento, decisiones y sus propias vidas en manos de software informático.
 
@@ -24,6 +24,7 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 
 >I.M. Del Águila, J. Del Sagrado, A. Bosch (2021) GUIDELINES FOR USE SERIOUS GAMES IN SOFTWARE ENGINEERING TEACHING, INTED2021 Proceedings, pp. 2742-2749.
 
-[doi: 10.21125/inted.2021.0586](https://library.iated.org/view/DELAGUILA2021GUI)
+## Lista de actividades disponibles
+[Cartas de simulación de Scrum](/CartasSimulacionScrum/descripcion.md)
 
-
+[Caratas contra el agilismo](/CartasContraAgilismo/descripcion.md)
