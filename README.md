@@ -1,12 +1,12 @@
 # Juegos serios en la Ingeniería del Software
 
- El objetivo de este material es servir de soporte para compartir actividades basadas en juegos serios para la docencia en materias de ingeniería del software. En muchos casos se trata de la adapción o simplemente traducción de activides ampliamente conocidas. 
+ El objetivo de este material es servir de soporte para compartir actividades basadas en juegos serios para la docencia en materias de ingeniería del software. En muchos casos se trata de la adapción o simplemente traducción de activides ampliamente conocidas.
 
 ## Cómo aprender Ingeniería del software jugando
 
  El software está presente en sistemas de todo tipo: transportes, sanidad, telecomunicaciones, militares, procesos industriales, entretenimiento, productos de oficina, etc.; la lista cubre todas las actividades humanas. Estas aplicaciones conducen a la toma de decisiones comerciales, sirven como base a la investigación científica moderna, contribuyen a la resolución de problemas de ingeniería y son el factor clave que diferencia los productos y servicios modernos. Son muchos los casos en los que las personas dejan su trabajo, bienestar, seguridad, entretenimiento, decisiones y sus propias vidas en manos de software informático.
 
-<p> Todo esto ha llevado a un cambio en la percepción pública del software que debe desarrollarse como cualquier otro producto industrial, aplicando métodos de ingeniería que aseguren la calidad del producto resultante, sin embargo se hace necesario utilizar metodologías propias que se adapten al carácter innovador de esta disciplina. 
+Todo esto ha llevado a un cambio en la percepción pública del software que debe desarrollarse como cualquier otro producto industrial, aplicando métodos de ingeniería que aseguren la calidad del producto resultante, sin embargo se hace necesario utilizar metodologías propias que se adapten al carácter innovador de esta disciplina.
 
 Sin embargo hacer que los alumnos desarrollen las competencias necesarias para aplicar estos métodos no es tarea fácil. La docencia presencial en los niveles de educación universitarios permite la comunicación directa docente/estudiante siendo la lección magistral uno de los métodos docentes más extendidos durante siglos, pero que suele ser percibido por los estudiantes como sinónimo de aburrimiento e ineficacia, provocando un estado de desmotivación que conlleva la pérdida de compromiso del estudiante en el proceso de enseñanza aprendizaje.
 
@@ -28,10 +28,9 @@ Estos juegos formativos son herramientas que permiten formar a los participantes
 
 
 ## Lista de actividades disponibles
+
 [Cartas de simulación de Scrum](/CartasSimulacionScrum/Descripcion.md)
 
 [Cartas contra el agilismo](/CartasContraAgilismo/Descripcion.md)
 
 [Cartas de valores y roles](/CartasValores/Descripcion.md)
-
-
