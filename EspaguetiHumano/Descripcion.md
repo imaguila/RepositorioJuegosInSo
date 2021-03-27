@@ -5,8 +5,9 @@ Un juego para ilustrar la belleza de la autoorganización, y el dolor de la gest
 ## PUNTOS DE APRENDIZAJE
 
 Importancia de los equipos autogestionados.
-Implicación y compromiso de los miembros del equipo de trabajo
-TEMPORIZACIÓN
+Implicación y compromiso de los miembros del equipo de trabajo 
+
+## TEMPORIZACIÓN
 
  10-20 minutos 
 
@@ -23,11 +24,11 @@ Formar un nudo spaguetti entrecruzando los brazos de los participantes. La confi
 
 
 
-Caso de 10 alumnos ![Para 10 alumnos](10.png)
+Caso de 10 alumnos ![Para 10 alumnos](10.png){width="300" height="300"}
 
-Caso de 12 Alumnos ![Para 12 alumnos](12.png)
+Caso de 12 Alumnos ![Para 12 alumnos](12.png){width="300" height="300"}
 
-Caso de 14 alumnos ![Para 14 alumnos](14.png)
+Caso de 14 alumnos ![Para 14 alumnos](14.png){width="300" height="300"}
 
 ### MODO 1:
 
