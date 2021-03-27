@@ -32,6 +32,9 @@ El objetivo de este material es servir de soporte para compartir actividades bas
 
 [doi: 10.21125/inted.2021.0586](https://library.iated.org/view/DELAGUILA2021GUI)
 
+## Posters presentados en Jornadas de innovación docentes
+
+*   ![2019](2019.jpg)    ![2020](2020.jpg) 
 
 ## Lista de actividades disponibles
 
@@ -41,5 +44,6 @@ El objetivo de este material es servir de soporte para compartir actividades bas
 *   [Construyamos un producto](/ConstruyamosUnProducto/Descripcion.md)
 *   [Contar hasta 33](/ContarHasta33/Descripcion.md)
 *   [Contar en la oscuridad](/ContarEnLaOscuridad/Descripcion.md)
+
 
 *   [preuba](prueba.md)
