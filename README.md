@@ -39,4 +39,7 @@ El objetivo de este material es servir de soporte para compartir actividades bas
 *   [Cartas contra el agilismo](/CartasContraAgilismo/Descripcion.md)
 *   [Cartas de valores y roles](/CartasValores/Descripcion.md)
 *   [Construyamos un producto](/ConstruyamosUnProducto/Descripcion.md)
+*   [Contar hasta 33](/ContarHasta33/Descripcion.md)
+*   [Contar en la oscuridad](/ContarEnLaOscuridad/Descripcion.md)
+
 *   [preuba](prueba.md)
