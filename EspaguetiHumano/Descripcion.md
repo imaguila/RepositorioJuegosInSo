@@ -24,7 +24,7 @@ Formar un nudo spaguetti entrecruzando los brazos de los participantes. La confi
 
 
 
-Caso de 10 alumnos ![Para 10 alumnos](10.png){width="300" height="300"}
+Caso de 10 alumnos ![Para 10 alumnos](10.png){width=300 height=300}
 
 Caso de 12 Alumnos ![Para 12 alumnos](12.png){width="300" height="300"}
 
