@@ -1,5 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://github.com/imaguila/RepositorioJuegosInSo/blob/master/estilo.css" media="screen" />
-
+<link rel="stylesheet" type="text/css" href= "../estilo.css" media="screen" />
 
 # Reto de la torre de espaguetis. Marshmallow challenge
 
