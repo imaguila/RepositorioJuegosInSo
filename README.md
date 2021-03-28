@@ -1,11 +1,5 @@
-<style type="text/css">
-p {
-  color: red;
-  width: 500px;
-  border: 1px solid black;
-  text-align: justify;
-}
- </style>
+
+<link rel="estilo" href="estilo.css">
 
 # Juegos serios en la Ingeniería del Software
 
