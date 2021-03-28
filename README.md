@@ -1,4 +1,6 @@
-
+<style type="text/css">
+p { text-align: justify;}
+ </style>
 
 # Juegos serios en la Ingeniería del Software
 
