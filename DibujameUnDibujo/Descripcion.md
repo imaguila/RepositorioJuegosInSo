@@ -1,3 +1,7 @@
+<style type="text/css">
+p { text-align: justify;}
+ </style>
+
 # Dibujame un dibujo
 
 El juego se organiza en torno a la realización de un dibujo. El grupo se dividirá en equipos separados, y un equipo recibirá tiempo específico e instrucciones para planificar el futuro. Una vez que se hayan completado el facilitador evalúa y dirige la discusión sobre el trabajo del equipo, y los equipos tendrán la oportunidad de mostrar sus experiencias.

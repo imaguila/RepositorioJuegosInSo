@@ -1,3 +1,7 @@
+<style type="text/css">
+p { text-align: justify;}
+ </style>
+ 
 # Contar hasta 33
 
 Se trata de una actividad simple donde el objetivo es contar en voz alta hasta 33, a la mayor velocidad posible (con no mas de 1 segundo entre persona y persona) pero con unas reglas particulares que hacen de algo simple un trabajo que requiere concentración.
