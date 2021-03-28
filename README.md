@@ -43,7 +43,7 @@ A continuación se muestran por orden alfabético las actividades basadas en jue
 
 [doi: 10.21125/iceri.2020.0294](https://library.iated.org/view/DELAGUILA2020SER)
 
->I.M. del Águila, J. Del Sagrado, <\div>A. Bosch (2021) GUIDELINES FOR USE SERIOUS GAMES IN SOFTWARE ENGINEERING TEACHING, INTED2021 Proceedings, pp. 2742-2749.
+>I.M. del Águila, J. Del Sagrado, A. Bosch (2021) GUIDELINES FOR USE SERIOUS GAMES IN SOFTWARE ENGINEERING TEACHING, INTED2021 Proceedings, pp. 2742-2749.
 
 [doi: 10.21125/inted.2021.0586](https://library.iated.org/view/DELAGUILA2021GUI)
 
