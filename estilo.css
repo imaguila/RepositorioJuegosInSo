@@ -2,15 +2,15 @@
 p {
   color: black;
   text-align: justify;
-   background-color: AliceBlue;
+   background-color: rgb(252, 236, 211);
 }
 h1 { font-size: 3em;
      font-weight: bold;
      color: teal;
-   background-color: AliceBlue;
+   background-color: rgb(252, 236, 211);
  }
  h2 { border-bottom: 1px solid teal;
-    background-color: AliceBlue;
+    background-color: rgb(252, 236, 211);
       color: teal;}
 
  h3 { color: teal;
