@@ -51,7 +51,7 @@ A continuación se muestran por orden alfabético las actividades basadas en jue
 ********************************
 <!--
 [Capítulo anterior](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/iterativa.md) -->
-| [Siguiente. Romper el hielo](https://github.com/imaguila/RepositorioJuegosInSo/blob/master/romperhielo.md)
+| [Siguiente. Romper el hielo](romperhielo.md)
 
 <!--
 ## Posters presentados en Jornadas de innovación docente
