@@ -2,6 +2,7 @@
 p {
   color: black;
   text-align: justify;
+   background-color: AliceBlue;
 }
 h1 { font-size: 3em;
      font-weight: bold;
@@ -16,6 +17,4 @@ h1 { font-size: 3em;
 blockquote { border-left-width: 0;
             background-color: rgba(0, 184, 212, 0.1)
     }
-body {
-  background-color: lightblue;
-}
+
