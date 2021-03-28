@@ -17,6 +17,5 @@ blockquote { border-left-width: 0;
             background-color: rgba(0, 184, 212, 0.1)
     }
 body {
-  background-image: url("gradient_bg.png");
-  background-repeat: repeat-x;
+  color: blue;
 }
