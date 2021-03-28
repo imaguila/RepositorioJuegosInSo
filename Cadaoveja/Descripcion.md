@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="./estilo.css" media="screen" />
 
 # Cada Oveja con su Pareja
 
