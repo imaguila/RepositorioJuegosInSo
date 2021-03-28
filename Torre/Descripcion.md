@@ -1,4 +1,4 @@
-<link rel="estilo" href="estilo.css">
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
 
 
 # Reto de la torre de espaguetis. Marshmallow challenge
