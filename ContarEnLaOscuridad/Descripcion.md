@@ -1,7 +1,5 @@
-<style type="text/css">
-p { text-align: justify;}
- </style>
- 
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
 # Contar en la oscuridad
 
 El objetivo es que los participantes se den cuenta que hasta para las labores mas simples es necesaria la colaboración.

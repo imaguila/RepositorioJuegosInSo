@@ -1,7 +1,5 @@
-<style type="text/css">
-p { text-align: justify;}
- </style>
- 
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
 # Espagueti humano
 
 Un juego para ilustrar la belleza de la autoorganización, y el dolor de la gestión «experta»

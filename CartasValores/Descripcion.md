@@ -1,7 +1,5 @@
-<style type="text/css">
-p { text-align: justify;}
- </style>
- 
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
 # Cartas de valores y roles
 
 El "Juego de cartas de valores y roles de Scrum" es una actividad de aprendizaje que llevará a los estudiantes a discutir sobre los roles y valores de Scrum, instruyéndoles también sobre las responsabilidades y comportamientos esperados. La fuente original esta accesible en [tastycapkes](https://www.tastycupcakes.org/2016/06/scrum-values-roles-card-game/)

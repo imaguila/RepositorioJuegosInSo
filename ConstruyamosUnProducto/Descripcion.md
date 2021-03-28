@@ -1,7 +1,5 @@
-<style type="text/css">
-p { text-align: justify;}
- </style>
- 
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
 # Construyamos un producto
 
 En las primeras etapas del desarrollo de un aplicación software la comunicación es un punto clave. Se necesita un código común. Emisores y receptores deben compartir un código para expresar los mensajes a partir de los cuales se establecerán las características del producto a cosntruir. Este código es parte intrínsea de las personas que hablan un mismo idioma, tiene un mismo bagaje cultural y experiencia similar. Sin embargo esto condiciones ideales no suelen darse para todos los stakeholders, se debe acordar un código habitulamente muy relacionado con las técnicas de modelado. Otro factor importante es el medio. En la comunicación verbal, el exito se basa en la redundancia. Además de palabras se utiliza el lenguaje gestual y la entonación, incluyendo el feedback de receptor de los mensajes. En los informes escritos hay redundancia mínima y no hay feedback. Además de los problemas derivados del uso de distinto vocabulario y de los distintos medios de comuncación, el conocimiento implicito (no expresado en ningun código) es uno de los principales problemas. Se simplifican cuestionesque pueden ser básicas para el éxito del proyecto.

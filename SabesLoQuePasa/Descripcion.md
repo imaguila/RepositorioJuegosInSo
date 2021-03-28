@@ -1,7 +1,5 @@
-<style type="text/css">
-p { text-align: justify;}
- </style>
- 
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
 # Pero sabes lo que pasa cuando escribo lo que quiero
 
 ## Materiales Necesarios

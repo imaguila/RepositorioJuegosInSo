@@ -1,7 +1,5 @@
-<style type="text/css">
-p { text-align: justify;}
- </style>
- 
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
 # Pesar en pigüinos. Juego de la planificación relativa
 
 El ejercicio simula una sesión de estimación de póquer o planning poker.

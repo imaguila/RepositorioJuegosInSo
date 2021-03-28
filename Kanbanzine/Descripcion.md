@@ -1,6 +1,3 @@
-<style type="text/css">
-p { text-align: justify;}
- </style>
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
 
  # Kanbanzine
- 

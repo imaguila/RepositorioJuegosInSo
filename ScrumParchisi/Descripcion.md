@@ -1,7 +1,5 @@
-<style type="text/css">
-p { text-align: justify;}
- </style>
- 
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
 # Scrum Parchisi
 
 Se trata de un juego que proponemos sin ninguna variación respecto a su publicación original en [scrummanager.net](https://www.scrummanager.net/oks/course/view.php?id=13&section=1)

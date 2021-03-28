@@ -1,7 +1,5 @@
-<style type="text/css">
-p { text-align: justify;}
- </style>
- 
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
 # Juego de las monedas
 
 Destaca la importancia del trabajo por etapas y las diferencias entre desarrollo por etapas e incremental. Es un juego clásico en los talleres Scrum.
