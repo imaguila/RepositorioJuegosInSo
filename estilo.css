@@ -7,8 +7,10 @@ p {
 h1 { font-size: 3em;
      font-weight: bold;
      color: teal;
+   background-color: AliceBlue;
  }
  h2 { border-bottom: 1px solid teal;
+    background-color: AliceBlue;
       color: teal;}
 
  h3 { color: teal;
