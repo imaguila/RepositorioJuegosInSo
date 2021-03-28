@@ -48,6 +48,11 @@ A continuación se muestran por orden alfabético las actividades basadas en jue
 [doi: 10.21125/inted.2021.0586](https://library.iated.org/view/DELAGUILA2021GUI)
 
 
+********************************
+<!--
+[Capítulo anterior](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/iterativa.md) -->
+| [Siguiente. Romper el hielo](https://github.com/imaguila/RepositorioJuegosInSo/blob/master/romperhielo.md)
+
 <!--
 ## Posters presentados en Jornadas de innovación docente
 
