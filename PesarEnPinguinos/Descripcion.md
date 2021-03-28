@@ -1,3 +1,7 @@
+<style type="text/css">
+p { text-align: justify;}
+ </style>
+ 
 # Pesar en pigüinos. Juego de la planificación relativa
 
 El ejercicio simula una sesión de estimación de póquer o planning poker.
@@ -27,8 +31,8 @@ En nuestro caso ampliamos el alcance de la actividad para utilizar las cartas de
 - Fichas de la actividad
     - [Ficha](ficha.pdf)
     - [Trasparencias](trasparencias.pdf)
-    - [Material para el alumno](alumno.pdf) 
-   
+    - [Material para el alumno](alumno.pdf)
+
 - Hoja de calculo o similar para realizar la propuesta final
 
 ## INSTRUCCIONES
@@ -43,4 +47,3 @@ Nota: El facilitador debe asegurarse que se siguen las normas y se pesa en ping�
 ## DEBRIEFING
 
 Comprobar que los errores son relativamente pequeños y que probablemente con otra sesión de entrenamiento el resultado debe mejorar.
-

@@ -1,3 +1,7 @@
+<style type="text/css">
+p { text-align: justify;}
+ </style>
+ 
 # Dixit de los requisitos
 
 Dixit es un juego de mesa creado en 2008 por Jean-Louis Roubira en el que el objetivo es adivinar una carta a partir de pistas que se dan en forma de frase o narración.

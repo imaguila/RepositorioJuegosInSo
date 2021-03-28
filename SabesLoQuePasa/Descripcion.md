@@ -1,3 +1,7 @@
+<style type="text/css">
+p { text-align: justify;}
+ </style>
+ 
 # Pero sabes lo que pasa cuando escribo lo que quiero
 
 ## Materiales Necesarios

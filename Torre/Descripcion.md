@@ -1,3 +1,7 @@
+<style type="text/css">
+p { text-align: justify;}
+ </style>
+ 
 # Reto de la torre de espaguetis. Marshmallow challenge
 
 Se trata de una actividad clásica en el ámbito del emprendimiento. El objetivo será crear una torre con de espaguetis coronada por una nube de azucar. Ganará el equipo que construya la torre mas alta. [Enlace externo](https://www.toastmasters.org/resources/marshmallow-challenge)
