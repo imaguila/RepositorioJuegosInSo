@@ -7,10 +7,11 @@ h1 { font-size: 3em;
      font-weight: bold;
      color: teal;
  letter-spacing:5px;
- border-style: groove;
  }
  h2 { border-bottom: 1px solid teal;
-      color: teal;}
+      color: teal;
+  text-shadow:4px 4px 8px blue;
+}
 
  h3 { color: teal;
       font-style: italic; }
