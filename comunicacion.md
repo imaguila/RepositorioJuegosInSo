@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
+
 # LA IMPORTANCIA DE LA COMUNICACIÓN
 
 
