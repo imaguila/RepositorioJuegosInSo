@@ -10,7 +10,7 @@ h1 { font-size: 3em;
  }
  h2 { border-bottom: 1px solid teal;
       color: teal;
-  text-shadow:4px 4px 8px blue;
+  text-shadow:1px 1px 3px blue;
 }
 
  h3 { color: teal;
