@@ -9,7 +9,7 @@ Para ver desde un punto de vista práctico como funciona la comunicación se uti
 
 En este sentido [Jedi 21](/Jedi21/Descripcion.md) perminte comparar las diferencias según como se colabore en un proyecto
 
-[Construyamos un producto](/ConstruyamosUnProducto/Descripcion.md) se centra en las diferencies según la via de comunicación y el medio de especifciación de un producto (El gorro de papel)
+[Construyamos un producto](/ConstruyamosUnProducto/Descripcion.md) se centra en las diferencias según la vía de comunicación y el medio de especifciación de un producto (El gorro de papel)
 
 [Pero sabes lo que pasa cuando escribo lo que quiero](SabesLoQuePasa/Descripcion.md) muestra como se debe tener un lenguaje común para trabajar en equipo.
 

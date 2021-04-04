@@ -2,6 +2,8 @@
 
 # Pero sabes lo que pasa cuando escribo lo que quiero
 
+La versión en inglés de este juegos está en [link](https://www.tastycupcakes.org/2014/11/user-stories-vs-requirements/)
+
 ## Materiales Necesarios
 
 - Papel en blanco

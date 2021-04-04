@@ -34,9 +34,8 @@ A continuación se muestran por orden alfabético las actividades basadas en jue
 |  [Cada oveja con su pareja](/Cadaoveja/Descripcion.md)  | [Dibujame Un Dibujo](/DibujameUnDibujo/Descripcion.md)| [Dixit de Requisitos](/DixitdeRequisitos/Descripcion.md)|
 [Espagueti Humano](/EspaguetiHumano/Descripcion.md) | [Jedi 21](/Jedi21/Descripcion.md) | [El mejor juguete volador jamás construido](/JugueteVolador/Descripcion.md)
 | [Kanban de los colores](/KanbanColores/Descripcion.md) | [Kanbanzine](/Kanbanzine/Descripcion.md) | [Pesar en pingüinos](/PesarEnPinguinos/Descripcion.md) |
-|[Volteando monedas] |[Quien Soy] | [Las R's de la retrospectiva]|
-| [Pero sabes lo que pasa cuando escribo lo que quiero] |[Scrum parchisi]   |[Torre de espaguetis y nube]   |
-
+|[Volteando monedas](/Monedas/Descripcion.md) |[Quien Soy](/QuienSoy/Descripcion.md) | [Las R's de la retrospectiva](/Retrospectiva/Descripcion.md)|
+| [Pero sabes lo que pasa cuando escribo lo que quiero](/SabesLoQuePasa/Descripcion.md) |[Scrum parchisi](/ScrumParchisi/Descripcion.md)   |[Torre de espaguetis y nube](/Torre/Descripcion.md)   |
 
 
 ## Cómo referenciar este trabajo
