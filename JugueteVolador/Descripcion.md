@@ -10,7 +10,7 @@ Esta es una variación del clásico juego de bloques de Lego para construir un p
 
 ## MATERIALES
 
-[Product vision board](productvision.pdf)
+[Product vision board](productvision.pdf) se recomienda imprimir en tamaño grande y colocar en  una zona visible para todos los equipos.
 
 [Fichas de producto](ScrumLEGOSimulation.pdf)
 
