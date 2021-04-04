@@ -14,6 +14,9 @@ La primera tanda sin reunión y la segunda con ella, de forma que se gana si se 
 
 - [Tarjetas](tarjetas.pdf) con las instrucciones.
 
+## INSTRUCCIONES
+
+
 
 ## IMAGENES ACTIVIDAD
 

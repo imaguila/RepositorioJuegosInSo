@@ -4,13 +4,13 @@
 
 La versión en inglés de este juegos está en [link](https://www.tastycupcakes.org/2014/11/user-stories-vs-requirements/)
 
-## Materiales Necesarios
+## MATERIALES NECESARIOS
 
 - Papel en blanco
 - Rotuladores, de colores si es preciso
 - Hojas con la especificación
 
-## Audiencia
+## AUDIENCIA
 
 Fantástico para jugar con todo un equipo. No es una buena idea ejecutar esto con un grupo de expertos en descripción de requisitos o modelado. El punto clavbe es la colaboración interdisciplinar.
 
