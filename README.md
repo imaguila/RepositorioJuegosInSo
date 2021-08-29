@@ -49,6 +49,12 @@ A continuación se muestran por orden alfabético las actividades basadas en jue
 [doi: 10.21125/inted.2021.0586](https://library.iated.org/view/DELAGUILA2021GUI)
 
 
+>del Águila, I. M., Guirado, R., & Miranda, C. M.  (2020). Juegos serios para aprender gestión ágil de proyectos. In Conference proceedings CIVINEDU 2020: 4th International Virtual Conference on Educational Research and Innovation September 23-24, 2020 (pp. 216-217). 
+
+https://dialnet.unirioja.es/servlet/articulo?codigo=7837942
+
+http://hdl.handle.net/10835/10781
+
 ********************************
 <!--
 [Capítulo anterior](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/iterativa.md) -->
