@@ -38,7 +38,6 @@ Equipo 2:
 2 vacas con 4 puntos negros
 2 pájaros para residir en la esquina superior izquierda
 3 pájaros en el medio
-un sol a la derecha con 5 rayos de sol
-**
+un sol a la derecha con 5 rayos de sol**
 
 Al terminar el juego se comprueban los resultados de cada equipo
