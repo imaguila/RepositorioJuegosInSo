@@ -41,3 +41,8 @@ Equipo 2:
 un sol a la derecha con 5 rayos de sol**
 
 Al terminar el juego se comprueban los resultados de cada equipo
+
+
+Los resultados son mejores cuando se define poco el problema y se trabaja a un nivel alto de abstracción, tal como se ve en las siguientes fotografías.
+
+
