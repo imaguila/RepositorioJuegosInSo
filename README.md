@@ -36,7 +36,7 @@ A continuación se muestran por orden alfabético las actividades basadas en jue
 | [Kanban de los colores](/KanbanColores/Descripcion.md) | [Kanbanzine](/Kanbanzine/Descripcion.md) | [Pesar en pingüinos](/PesarEnPinguinos/Descripcion.md) |
 |[Volteando monedas](/Monedas/Descripcion.md) |[Quien Soy](/QuienSoy/Descripcion.md) | [Las R's de la retrospectiva](/Retrospectiva/Descripcion.md)|
 | [Pero sabes lo que pasa cuando escribo lo que quiero](/SabesLoQuePasa/Descripcion.md) |[Scrum parchisi](/ScrumParchisi/Descripcion.md)   |[Torre de espaguetis y nube](/Torre/Descripcion.md)   |
-|Prado en verano(/prado/Descripcion.md)||
+|Prado en verano(/prado/Descripcion.md) ||
 
 
 ## Cómo referenciar este trabajo
