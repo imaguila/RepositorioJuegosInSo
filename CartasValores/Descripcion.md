@@ -21,7 +21,7 @@ No mas de 15 minutos.
 ## MATERIALES
 
 - Tarjetas impresas,
-  - [tarjetas]
+  - [tarjetas](cartasvaloresroles.pdf)
 
 - Esquema de colocación de las cartas, [esquema](estruc.jpg)
 
