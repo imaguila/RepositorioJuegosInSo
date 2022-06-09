@@ -47,7 +47,7 @@ Los resultados son mejores cuando se define poco el problema y se trabaja a un n
 
 ![Equipo 2](casodetallado.jpeg)
 
-![Equipo 1](casodetallado.jpeg)
+![Equipo 1](casogeneral.jpeg)
 
 
 
