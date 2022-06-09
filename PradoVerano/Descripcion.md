@@ -45,5 +45,9 @@ Al terminar el juego se comprueban los resultados de cada equipo
 
 Los resultados son mejores cuando se define poco el problema y se trabaja a un nivel alto de abstracción, tal como se ve en las siguientes fotografías.
 
+![Equipo 2](casodetallado.jpeg)
+
+![Equipo 1](casodetallado.jpeg)
+
 
 
