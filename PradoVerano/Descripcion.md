@@ -29,15 +29,15 @@ Equipo 1:
 
 Equipo 2:
 
-**Dibuja un prado con
-10 flores azules con 5 pétalos cada una
-5 flores azules con 6 pétalos cada una
-13 flores rojas con 6 pétalos cada una
-2 vacas con 3 puntos negros
-1 vaca con 5 puntos negros
-2 vacas con 4 puntos negros
-2 pájaros para residir en la esquina superior izquierda
-3 pájaros en el medio
+**Dibuja un prado con: 
+10 flores azules con 5 pétalos cada una,
+5 flores azules con 6 pétalos cada una,
+13 flores rojas con 6 pétalos cada una,
+2 vacas con 3 puntos negros,
+1 vaca con 5 puntos negros,
+2 vacas con 4 puntos negros,
+2 pájaros para residir en la esquina superior izquierda,
+3 pájaros en el medio,
 un sol a la derecha con 5 rayos de sol**
 
 Al terminar el juego se comprueban los resultados de cada equipo
