@@ -79,3 +79,23 @@ Debatir con los alumnos como se han sentido con los diferentes tipos de instrucc
 *   ¿Sería buena la redundancia?
 
 Valorar la importancia de tener buenos canales de comunicación
+
+
+
+Crease a rectangular sheet of paper down the middle. Fold the paper lengthwise (hotdog style). Run your fingernail along the crease, then unfold the paper. You will use this crease as a guide later on.[1]
+•	A sheet of newspaper around 29 1⁄2 by 23 1⁄2 inches (75 by 60 cm) will work the best, but you can use a sheet of printer paper to make a smaller doll-sized hat too.
+•	
+Fold the paper in half widthwise. Bring the narrow ends together, then flatten the paper (hamburger style). Run your fingernail along the crease to sharpen it. Do not unfold the paper.[2]
+
+Fold the top corners to the center crease. Rotate the paper so that the folded edge is along the top of the paper. Fold the top left and right corners to the vertical crease running down the middle of your paper. You will end up with a house shape.[3]
+
+Fold 1 of the flaps along the bottom edge up. There are 2 layers or "flaps" of paper along the bottom edge of your house shape. Take the top flap and fold it upwards. The new crease along the bottom edge of the paper should be flush with the bottom edges of the triangles.[4]
+
+
+Fold the brim inwards if it is too wide for you. Unfold the brim to reveal a crease. Fold the bottom edge up to this crease, then fold the brim back up, like in the previous step.[5]
+•	How wide you make the brim is entirely up to you and your personal tastes. Most people like theirs between 1 and 2 inches (2.5 and 5.1 cm).
+Flip the paper over and fold the second flap up too. If you folded the brim twice earlier, you should fold it twice this time around too.[6]
+
+Tape the corners of the brim, if desired. You don't have to do this, but it will give your hat a nicer finish. Wrap pieces of tape around both of the side edges of the brim to hold them together. You can also use glue instead, but let the glue dry.
+•	To make an alpine hat, fold the corners of the brim down behind the band so that your hat looks like a triangle. Glue the edges of the brim to the hat.[7]
+Open the base of the hat to put it on. For an alpine or Peter Pan look, wear the hat with the triangle parts over your ears. For a bicorn or pirate look, wear the hat with the triangle parts over your forehead instead.
