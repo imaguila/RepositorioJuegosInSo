@@ -65,3 +65,6 @@ A continuación se muestran por orden alfabético las actividades basadas en jue
 ## Posters presentados en Jornadas de innovación docente
 
 *   ![2019](2019.jpg)    ![2020](2020.jpg)-->
+
+
+https://imaguila.github.io/RepositorioJuegosInSo/
